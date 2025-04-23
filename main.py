@@ -29,4 +29,4 @@ def process_images(input_folder, output_folder):
                 print(f"Error processing {filename}: {e}")
 
 # Example usage:
-process_images(r"C:\Users\A\Desktop\Code things\Shia Whispers\images\unformatted", r"C:\Users\A\Desktop\Code things\Shia Whispers\images")
+process_images(r"C:\Users\hamade\Desktop\unformatted", r"C:\Users\hamade\Desktop\formatted")
